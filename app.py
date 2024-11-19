@@ -50,19 +50,14 @@ with tab1:
 
         st.subheader(":blue[REDES]")
 
-        button_col1, button_col2, button_col3, button_col4 = st.columns([1, 1, 1, 1])
+        button_col1, button_col2, button_col3, button_col4 = st.columns([1, 1])
 
         with button_col1:
-            st.link_button("🐱 Github", "https://github.com/CraraMaria") 
+            st.link_button("🐱 Github", "https://github.com/mandsd") 
 
         with button_col2:
-            st.link_button("🔗 LinkedIn", "https://www.linkedin.com/in/maria-clara-fontenele-silva-334a08292/")
+            st.link_button("🔗 LinkedIn", "https://www.linkedin.com/in/amanda-dahm-138105250/")
           
-        with button_col3:
-            st.link_button(" 📝 Medium", "https://medium.com/@fontenelesilvamariaclara")
-          
-        with button_col4:
-            st.link_button("🌊 Overflow", "https://stackoverflow.com/users/27588517/maria-clara-fontenele-silva?tab=topactivity")
 
 
     with col2:
