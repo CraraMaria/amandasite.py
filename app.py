@@ -3,8 +3,8 @@ import pandas as pd
 
 # Configuração da página
 st.set_page_config(
-    page_title="Maria Clara Fontenele Silva",
-    page_icon="🍓",
+    page_title="Amanda Ferreira Dahm",
+    page_icon="✨",
     layout="centered",
     initial_sidebar_state="auto"
 )
@@ -17,18 +17,18 @@ with tab1:
     col1, col2 = st.columns([4, 1])
     
     with col1:
-        st.title("Maria Clara Fontenele Silva")
+        st.title("Amanda Ferreira Dahm")
         st.write("Estudante de Ciência da Computação. Interesse em Ciência de Dados e Desenvolvimento Fullstack.")
         st.write("Experiência em projetos acadêmicos e voluntários e em busca de estágio para aplicar conhecimentos.")
 
         st.divider()
         st.subheader(":blue[PROJETOS]")
-        st.write("**Projeto Currículo** — _Projeto Python_")
-        st.caption("Criação deste currículo interativo usando Streamlit.")
-        st.write("**Projeto Guia do Universitário** — _Projeto Integrador_")
-        st.caption("Solução prática para calouros, com dicas sobre a faculdade e contratação de monitores.")
-        st.write("**Projeto Metamorfo** — _Projeto de Extensão_")
-        st.caption("Aprimoramento da segurança digital para leigos, com foco na tranquilidade ao usar tecnologia.")
+        # st.write("**Projeto Currículo** — _Projeto Python_")
+        # st.caption("Criação deste currículo interativo usando Streamlit.")
+        # st.write("**Projeto Guia do Universitário** — _Projeto Integrador_")
+        # st.caption("Solução prática para calouros, com dicas sobre a faculdade e contratação de monitores.")
+        # st.write("**Projeto Metamorfo** — _Projeto de Extensão_")
+        # st.caption("Aprimoramento da segurança digital para leigos, com foco na tranquilidade ao usar tecnologia.")
         
         st.divider()
         st.subheader(":blue[CERTIFICAÇÃO]")
