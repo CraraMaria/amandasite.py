@@ -23,7 +23,7 @@ with tab1:
 
         st.divider()
         st.subheader(":blue[PROJETOS]")
-        st.write("**Projeto de Jogos de Probabilidade**)
+        st.write("**Projeto de Jogos de Probabilidade**")
         st.caption("Criação de jogos envolvendo probabilidade e estatística")
         # st.write("**Projeto Guia do Universitário** — _Projeto Integrador_")
         # st.caption("Solução prática para calouros, com dicas sobre a faculdade e contratação de monitores.")
