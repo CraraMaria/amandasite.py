@@ -86,9 +86,8 @@ with tab1:
         st.caption("Sistemas Operacionais: Linux, Windows.")
 
         st.divider()
-        st.write(":blue[PROJETOS VOLUNTÁRIOS]")
-        st.caption("")
-        st.caption("Apoio na organização e aplicação de provas para o EAD.")
+        #st.write(":blue[PROJETOS VOLUNTÁRIOS]")
+       #st.caption("Apoio na organização e aplicação de provas para o EAD.")
         
         st.divider()
         st.write(":blue[IDIOMAS]")
@@ -98,10 +97,10 @@ with tab1:
 st.divider()
 
 # URL do arquivo PDF no GitHub
-# pdf_url = "https://raw.githubusercontent.com/CraraMaria/Curriculo_doc/main/Currículo_Maria_Clara.pdf"  # Atualize com o link correto
+pdf_url = "https://github.com/CraraMaria/amandasite.py/blob/main/Currículo%20final.pdf"  # Atualize com o link correto
 
 # Cria o botão de download
-# st.markdown(f'<a href="{pdf_url}" download="Currículo_Maria_Clara.pdf">Baixar em PDF</a>', unsafe_allow_html=True)
+st.markdown(f'<a href="{pdf_url}" download="Currículo final.pdf">Baixar em PDF</a>', unsafe_allow_html=True)
 
 with tab2:
     # Conteúdo para a aba 2
