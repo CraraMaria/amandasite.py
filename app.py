@@ -72,10 +72,10 @@ Responsável pelo gerenciamento de imóveis no Airbnb, incluindo:
 
 
     with col2:
-        st.caption("Santa Maria, DF, 72594-235")
-        st.caption("**☎️ +55 61 98160-7950**")
-        st.caption("**fontenelesilvamariaclara@gmail.com**")
-        st.caption("**maria.silva27@iesb.edu.br**")
+        st.caption("Asa Norte, DF, *****-***")
+        st.caption("**☎️ +55 61 98197-1043**")
+        st.caption("**amandafd@outlook.com**")
+        st.caption("**a.dahm@iesb.edu.br**")
         
         st.divider()
         st.write(":blue[COMPETÊNCIAS]")
