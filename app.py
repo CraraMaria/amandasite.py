@@ -25,10 +25,6 @@ with tab1:
         st.subheader(":blue[PROJETOS]")
         st.write("**Projeto de Jogos de Probabilidade**")
         st.caption("Criação de jogos envolvendo probabilidade e estatística")
-        # st.write("**Projeto Guia do Universitário** — _Projeto Integrador_")
-        # st.caption("Solução prática para calouros, com dicas sobre a faculdade e contratação de monitores.")
-        # st.write("**Projeto Metamorfo** — _Projeto de Extensão_")
-        # st.caption("Aprimoramento da segurança digital para leigos, com foco na tranquilidade ao usar tecnologia.")
         
         st.divider()
         st.subheader(":blue[CERTIFICAÇÃO]")
@@ -106,6 +102,6 @@ with tab2:
     # Conteúdo para a aba 2
     # tentar colocar foto interativa
     st.write("Mais sobre mim")
-    st.image("fotodeperfil.png", caption="Clara Fontenele", width=200)
+    # st.image("fotodeperfil.png", caption="Clara Fontenele", width=200)
 
     st.write("EM CONSTRUÇÃO 🛠👩‍🚒")
