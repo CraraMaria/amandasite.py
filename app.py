@@ -93,7 +93,7 @@ with tab1:
 st.divider()
 
 # URL do arquivo PDF no GitHub
-pdf_url = "https://github.com/CraraMaria/amandasite.py/blob/main/Currículo%20final.pdf"  # Atualize com o link correto
+pdf_url = "https://raw.githubusercontent.com/CraraMaria/amandasite.py/main/Currículo%20final.pdf"  # Atualize com o link correto
 
 # Cria o botão de download
 st.markdown(f'<a href="{pdf_url}" download="Currículo final.pdf">Baixar em PDF</a>', unsafe_allow_html=True)
