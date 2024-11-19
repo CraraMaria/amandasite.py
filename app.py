@@ -74,7 +74,7 @@ Responsável pelo gerenciamento de imóveis no Airbnb, incluindo:
     with col2:
         st.caption("Asa Norte, DF, *****-***")
         st.caption("**☎️ +55 61 98197-1043**")
-        st.caption("**amandafd@outlook.com**")
+        st.caption(:pink"**amandafd@outlook.com**")
         st.caption("**a.dahm@iesb.edu.br**")
         
         st.divider()
