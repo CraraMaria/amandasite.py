@@ -32,8 +32,8 @@ with tab1:
         
         st.divider()
         st.subheader(":blue[CERTIFICAÇÃO]")
-        st.write("Curso Pleno de Língua Estrangeira Moderna Inglês — **Concluído em 2017**")
-        st.caption("Centro Interescolar de Línguas do GAMA")
+        st.write("Curso Pleno de Língua Estrangeira Moderna Inglês — **Concluído em 2021**")
+        st.caption("Thomas jefferson")
 
         st.divider()
         st.subheader(":blue[FORMAÇÃO]")
@@ -74,7 +74,7 @@ Responsável pelo gerenciamento de imóveis no Airbnb, incluindo:
     with col2:
         st.caption("Asa Norte, DF, *****-***")
         st.caption("**☎️ +55 61 98197-1043**")
-        st.caption(:pink"**amandafd@outlook.com**")
+        st.caption("**amandafd@outlook.com**")
         st.caption("**a.dahm@iesb.edu.br**")
         
         st.divider()
@@ -89,7 +89,7 @@ Responsável pelo gerenciamento de imóveis no Airbnb, incluindo:
 
         st.divider()
         st.write(":blue[PROJETOS VOLUNTÁRIOS]")
-        st.caption("Monitoria em Geometria Analítica e Lógica Matemática.")
+        st.caption("")
         st.caption("Apoio na organização e aplicação de provas para o EAD.")
         
         st.divider()
