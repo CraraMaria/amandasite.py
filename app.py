@@ -98,10 +98,10 @@ with tab1:
 st.divider()
 
 # URL do arquivo PDF no GitHub
-pdf_url = "https://raw.githubusercontent.com/CraraMaria/Curriculo_doc/main/Currículo_Maria_Clara.pdf"  # Atualize com o link correto
+# pdf_url = "https://raw.githubusercontent.com/CraraMaria/Curriculo_doc/main/Currículo_Maria_Clara.pdf"  # Atualize com o link correto
 
 # Cria o botão de download
-st.markdown(f'<a href="{pdf_url}" download="Currículo_Maria_Clara.pdf">Baixar em PDF</a>', unsafe_allow_html=True)
+# st.markdown(f'<a href="{pdf_url}" download="Currículo_Maria_Clara.pdf">Baixar em PDF</a>', unsafe_allow_html=True)
 
 with tab2:
     # Conteúdo para a aba 2
