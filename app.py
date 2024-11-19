@@ -61,7 +61,7 @@ with tab1:
 
 
     with col2:
-        st.caption("Asa Norte, DF, *****-***")
+        st.caption("Asa Norte, DF")
         st.caption("**☎️ +55 61 98197-1043**")
         st.caption("**amandafd@outlook.com**")
         st.caption("**a.dahm@iesb.edu.br**")
