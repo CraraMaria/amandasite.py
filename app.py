@@ -23,8 +23,8 @@ with tab1:
 
         st.divider()
         st.subheader(":blue[PROJETOS]")
-        # st.write("**Projeto Currículo** — _Projeto Python_")
-        # st.caption("Criação deste currículo interativo usando Streamlit.")
+        st.write("**Projeto de Jogos de Probabilidade**)
+        st.caption("Criação de jogos envolvendo probabilidade e estatística")
         # st.write("**Projeto Guia do Universitário** — _Projeto Integrador_")
         # st.caption("Solução prática para calouros, com dicas sobre a faculdade e contratação de monitores.")
         # st.write("**Projeto Metamorfo** — _Projeto de Extensão_")
@@ -42,14 +42,12 @@ with tab1:
         st.write("Centro de Ensino Médio Setor Leste, Asa Sul, DF")
         st.caption("Ensino Médio - Concluído em 2018")
 
-        st.divider()
-        st.subheader(":blue[EXPERIÊNCIA PROFISSIONAL]")
-        st.write("Gerente de Operações de Airbnb")
-        st.caption("""
-Responsável pelo gerenciamento de imóveis no Airbnb, incluindo:
-- Coordenação de reservas, check-ins e check-outs de hóspedes.
-- Comunicação e suporte aos hóspedes para garantir avaliações positivas.
-""")
+       # st.divider()
+       # st.subheader(":blue[EXPERIÊNCIA PROFISSIONAL]")
+       # st.write("Gerente de Operações de Airbnb")
+       # st.caption("""
+# Responsável pelo gerenciamento de imóveis no Airbnb, incluindo:
+#""")
         ## st.caption("por algum tempo")
 
         st.divider()
